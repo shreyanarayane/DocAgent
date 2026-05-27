@@ -22,4 +22,4 @@ After that, just type `python drafter.py`. Drafter will greet you and wait for y
 ## What you see when you use it
 
 Once running, the agent prints its messages and any tool calls. A typical session looks like this (the actual text will vary, but the flow is always the same):
-# DocAgent
+
